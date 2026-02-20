@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baddogbarcraft.pages.dev/sitemap.xml
