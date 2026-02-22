@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://baddogbarcraft.pages.dev/sitemap.xml
+Sitemap: https://www.baddogbarcraft.com/sitemap.xml
