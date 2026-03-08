@@ -29,4 +29,10 @@
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://baddogbarcraft.com/posts/art-of-crafting-signature-cocktail-elixirs/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
